@@ -32,6 +32,8 @@ As a Tech Lead or Engineering Manager, your focus is on the health of the organi
 2. **Strategic Documentation**: Every major decision is recorded.
 3. **Security-First**: Baseline focus on trust and data integrity.
 4. **Generalist Flexibility**: Tools are language-agnostic for broad engineering support.
+5. **Cost-efficiency**: Ensure to optimize the token usage by using the correct tools, asking human before alucinating, and using the correct models.
+6. **Context optimization**: Always provide the necessary context to Claude, including relevant documentation, code snippets, and project information. Use subagents to provide just necessary context when the result is what only matters and not the way it was achieved.
 
 ## Acknowledgments
 
